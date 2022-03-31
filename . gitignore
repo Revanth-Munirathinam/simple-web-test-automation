@@ -1,0 +1,7 @@
+.idea/
+reports/
+node_modules/
+allure-results/
+errorShots/
+appium.log
+phantomjs.log 
