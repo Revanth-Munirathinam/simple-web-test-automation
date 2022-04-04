@@ -26,9 +26,10 @@ Or
 3. npm install
 
 Run Some Sample Tests
-To execute the entire test suite in local development, you can use any one of the options mentioned below
+To execute the entire test suite in local development,
 
-Option 1: npx wdio run wdio.conf.js. You can also run in SauceLabs and BrowserStack by updating the wdio.conf.js file with the required parameters.
+Procedure:
+       npx wdio run wdio.conf.js. You can also run in SauceLabs and BrowserStack by updating the wdio.conf.js file with the required parameters.
 
 Tests are place in *.feature files in the ./features/*.feature directory. A typical test will look similar to this:
 
