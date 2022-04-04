@@ -16,8 +16,8 @@ Project Structure
 
 Prerequisites
 1. Install VSCode in system
-2. Download the code from the repository using the URL:'https://github.com/anand-qa/webdriverio_cucumber.git'
-3. Open project in VSCode
+2. Download the code from the repository using the  URL:'https://github.com/Revanth-Munirathinam/simple-web-test-automation'
+Open project in VSCode
 4. Open Terminal
 
 Or 
